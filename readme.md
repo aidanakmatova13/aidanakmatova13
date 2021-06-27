@@ -3,7 +3,9 @@ I'm Aidana Akmatova. I’m a passionate freelance Full stack web developer livin
 
 
 
-**Languages and Tools:** 
+**Languages and Tools I use:** 
+
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -11,7 +13,7 @@ I'm Aidana Akmatova. I’m a passionate freelance Full stack web developer livin
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
 
 - 💼 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
 - 💬 Ask me about anything, I am happy to help;
