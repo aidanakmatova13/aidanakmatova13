@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm Aidana Akmatova</h1> 
-<h3 align="center">Passionate freelance Full stack web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.
-, Open Source Enthusiast</h3>
+<h3 align="center">Passionate freelance Full stack web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.</h3>
 
 
 - 📫 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
@@ -24,7 +23,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-In my free time, I tweet and post stories to [Instagram](https://instagram.com/wxirgo?utm_medium=copy_link) a lot.
 
 📈 My GitHub Stats
 
