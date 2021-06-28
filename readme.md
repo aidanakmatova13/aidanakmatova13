@@ -18,6 +18,6 @@ I'm Aidana Akmatova. I’m a passionate freelance Full stack web developer livin
 - 💼 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
 - 💬 Ask me about anything, I am happy to help;
 
-![Aidana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aigerim0&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aigerim0&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Aidana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact=true&theme=radical)](https://github.com/aidanakmatova13/github-readme-stats)
 In my free time, I tweet and post stories to [Instagram](https://instagram.com/wxirgo?utm_medium=copy_link) a lot. 
