@@ -4,6 +4,8 @@ I’m a passionate freelance Full stack web developer living in Kyrgyzstan. I am
 - 📫 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 I’m currently learning **web development🚢**
+- 📝 In my free time, I tweet and post stories to [Instagram](https://instagram.com/wxirgo?utm_medium=copy_link) a lot.
+
 
 
 
@@ -26,5 +28,4 @@ In my free time, I tweet and post stories to [Instagram](https://instagram.com/w
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact" alt="aidanakmatova13" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true" alt="aidanakmatova13" />
