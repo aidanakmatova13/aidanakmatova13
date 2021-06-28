@@ -20,5 +20,3 @@ I'm Aidana Akmatova. I’m a passionate freelance Full stack web developer livin
 
 In my free time, I tweet and post stories to [Instagram](https://instagram.com/wxirgo?utm_medium=copy_link) a lot.
 
-![Aidana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact=true&theme=radical)](https://github.com/aidanakmatova13/github-readme-stats)
