@@ -23,10 +23,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-
-📈 My GitHub Stats
+<h3 align="center">📈 My GitHub Stats:</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact" alt="aidanakmatova13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true" alt="aidanakmatova13" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true" alt="aidanakmatova13" /></p>
