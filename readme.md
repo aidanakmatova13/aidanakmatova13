@@ -26,6 +26,5 @@
 <h3 align="center">📈 My GitHub Stats:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact" alt="aidanakmatova13" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true" alt="aidanakmatova13" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanakmatova13&layout=compact" alt="aidanakmatova13" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aidanakmatova13&show_icons=true" alt="aidanakmatova13" />
