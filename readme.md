@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Aidana Akmatova</h1> 
-<h3 align="center">Passionate freelance Full stack web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.</h3>
+<h3 align="center">Passionate freelance Front end web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.</h3>
 
 
 - 📫 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
