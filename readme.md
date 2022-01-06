@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Aidana Akmatova</h1> 
+<h1 align="center">Hey there!</h1> 
 <h3 align="center">Passionate freelance Front end web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.</h3>
 
 
