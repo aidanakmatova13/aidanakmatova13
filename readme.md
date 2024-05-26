@@ -5,7 +5,7 @@
 - 📫 Any freelance work? Do reach, [email](http://akmatova.don@gmail.com/):)
 - 💬 Ask me about anything, I am happy to help;
 - 🌱 I’m currently learning **web development🚢**
-- 📝 In my free time, I tweet and post stories to [Instagram](https://instagram.com/wxirgo?utm_medium=copy_link) a lot.
+
 
 
 
